@@ -2,13 +2,13 @@ export const getValueBtnCalculator = (index) => {
 
     switch (index) {
         case 0:
-            return null;
+            return "0";
         case 1:
             return null;
         case 2:
             return null;
         case 3:
-            return null;
+            return "dividir";
         case 4:
             return "7";
         case 5:
@@ -24,7 +24,7 @@ export const getValueBtnCalculator = (index) => {
         case 10:
             return "6";
         case 11:
-            return null;
+            return "restar";
         case 12:
             return "1";
         case 13:

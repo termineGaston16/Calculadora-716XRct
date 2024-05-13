@@ -9,7 +9,7 @@ export default function CalculatorHeader() {
     return (<>
         <section style={{display:"grid", placeItems:"center", textAlign:"center"}}>
             <h5>calculator owner:</h5>
-            <p>Names</p>
+            <p>Cuando sumas y le das al =, despue sno te deja seguir sumando</p>
             <div style={{display:"flex", justifyContent:"space-between"}}>
                 <div style={{margin:"0px 5%"}}>
                     <h5>date</h5>
